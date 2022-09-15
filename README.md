@@ -4,6 +4,7 @@
 The project activity is promoted by “NSL Renewable Power Private Limited”, is a bundle of 4 Wind Turbine Generators (WTGs) having individual machine capacity of 1.25 MW; manufactured and supplied by Suzlon. Thus, total capacity of 5 MW is currently being operational in the village Harogeri, in Gadag district in the state of Karnataka (India). The estimated annual average COUs by the project activity is about 7,884 tCO2e. Project is also contributing to social sustainabilty in the region.
 ___________________
 Credits (CoUs) Issued
+2014-2021: 69928 CoUs
 ___________
 Serial Number: 0001-000001-009221-UCR-CoU-IN-161-01012014-31122014
 
